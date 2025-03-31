@@ -19,3 +19,5 @@ myItr=myIterator(1,5)
 
 for val in myItr:
       print(f"val is : {val}")
+else:
+      print("Iteration is completed")
